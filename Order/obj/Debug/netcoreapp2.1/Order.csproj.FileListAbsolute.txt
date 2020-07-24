@@ -1,0 +1,11 @@
+D:\Users\s429108\source\repos\Order\Order\bin\Debug\netcoreapp2.1\Order.deps.json
+D:\Users\s429108\source\repos\Order\Order\bin\Debug\netcoreapp2.1\Order.runtimeconfig.json
+D:\Users\s429108\source\repos\Order\Order\bin\Debug\netcoreapp2.1\Order.runtimeconfig.dev.json
+D:\Users\s429108\source\repos\Order\Order\bin\Debug\netcoreapp2.1\Order.dll
+D:\Users\s429108\source\repos\Order\Order\obj\Debug\netcoreapp2.1\Order.csprojAssemblyReference.cache
+D:\Users\s429108\source\repos\Order\Order\obj\Debug\netcoreapp2.1\Order.csproj.CoreCompileInputs.cache
+D:\Users\s429108\source\repos\Order\Order\obj\Debug\netcoreapp2.1\Order.AssemblyInfoInputs.cache
+D:\Users\s429108\source\repos\Order\Order\obj\Debug\netcoreapp2.1\Order.AssemblyInfo.cs
+D:\Users\s429108\source\repos\Order\Order\bin\Debug\netcoreapp2.1\Order.pdb
+D:\Users\s429108\source\repos\Order\Order\obj\Debug\netcoreapp2.1\Order.dll
+D:\Users\s429108\source\repos\Order\Order\obj\Debug\netcoreapp2.1\Order.pdb
